@@ -147,11 +147,11 @@ $ cat certifications.txt
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [`helpdesk-automation-toolkit`](https://github.com/intersysclaude/helpdesk-automation-toolkit) | IT service desk automation — ticket classification, SLA monitoring, onboarding | Python, sklearn, TF-IDF | ✅ Active |
-| [`network-infrastructure-toolkit`](https://github.com/intersysclaude/network-infrastructure-toolkit) | Subnet calc, network scanner, VLAN mapper, firewall auditor | Python, Bash | ✅ Active |
-| [`security-audit-framework`](https://github.com/intersysclaude/security-audit-framework) | NIST CSF 2.0 assessor, CIS benchmark checker, risk register, IR playbooks | Python | ✅ Active |
-| [`threat-intel-detection-lab`](https://github.com/intersysclaude/threat-intel-detection-lab) | IOC enrichment, SIGMA rules, MITRE mapping, log anomaly detection | Python | ✅ Active |
-| [`pentest-toolkit-educational`](https://github.com/intersysclaude/pentest-toolkit-educational) | Educational recon, vuln parsing, reporting toolkit | Python | ✅ Active |
+| [`helpdesk-automation-toolkit`](https://github.com/n0t-intersys/helpdesk-automation-toolkit) | IT service desk automation — ticket classification, SLA monitoring, onboarding | Python, sklearn, TF-IDF | ✅ Active |
+| [`network-infrastructure-toolkit`](https://github.com/n0t-intersys/network-infrastructure-toolkit) | Subnet calc, network scanner, VLAN mapper, firewall auditor | Python, Bash | ✅ Active |
+| [`security-audit-framework`](https://github.com/n0t-intersys/security-audit-framework) | NIST CSF 2.0 assessor, CIS benchmark checker, risk register, IR playbooks | Python | ✅ Active |
+| [`threat-intel-detection-lab`](https://github.com/n0t-intersys/threat-intel-detection-lab) | IOC enrichment, SIGMA rules, MITRE mapping, log anomaly detection | Python | ✅ Active |
+| [`pentest-toolkit-educational`](https://github.com/n0t-intersys/pentest-toolkit-educational) | Educational recon, vuln parsing, reporting toolkit | Python | ✅ Active |
 
 </div>
 
@@ -209,11 +209,11 @@ $ cat certifications.txt
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=intersysclaude&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&border_color=30363d"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=n0t-intersys&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&border_color=30363d"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intersysclaude&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&border_color=30363d"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0t-intersys&layout=compact&langs_count=8&theme=chartreuse-dark&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&border_color=30363d"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=intersysclaude&theme=chartreuse-dark&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&sideNums=c9d1d9&border=30363d" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=n0t-intersys&theme=chartreuse-dark&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&sideNums=c9d1d9&border=30363d" />
 
 </div>
 
@@ -224,8 +224,8 @@ $ cat certifications.txt
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-PROFILE)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:intersysclaude@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/intersysclaude)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n0t-intersys@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/n0t-intersys)
 [![Blog](https://img.shields.io/badge/Blog-Security_Insights-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://YOUR-BLOG-URL)
 
 </div>
@@ -243,6 +243,6 @@ $ cat certifications.txt
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=intersysclaude&color=00FF41&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=n0t-intersys&color=00FF41&style=flat-square&label=Profile+Views)
 
 </div>
