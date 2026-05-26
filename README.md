@@ -223,10 +223,10 @@ $ cat certifications.txt
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-PROFILE)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n0t-intersys@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/n0t-intersys)
-[![Blog](https://img.shields.io/badge/Blog-Security_Insights-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://YOUR-BLOG-URL)
+[![Website](https://img.shields.io/badge/Website-intersystechnology.com-00FF41?style=for-the-badge&logo=googlechrome&logoColor=white)](https://intersystechnology.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stefan_S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-s-1b93161a7/)
+[![Email](https://img.shields.io/badge/Email-contact@intersystechnology.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@intersystechnology.com)
+[![GitHub](https://img.shields.io/badge/GitHub-n0t--intersys-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/n0t-intersys)
 
 </div>
 
