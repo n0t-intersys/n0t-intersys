@@ -152,6 +152,8 @@ $ cat certifications.txt
 | [`security-audit-framework`](https://github.com/n0t-intersys/security-audit-framework) | NIST CSF 2.0 assessor, CIS benchmark checker, risk register, IR playbooks | Python | ✅ Active |
 | [`threat-intel-detection-lab`](https://github.com/n0t-intersys/threat-intel-detection-lab) | IOC enrichment, SIGMA rules, MITRE mapping, log anomaly detection | Python | ✅ Active |
 | [`pentest-toolkit-educational`](https://github.com/n0t-intersys/pentest-toolkit-educational) | Educational recon, vuln parsing, reporting toolkit | Python | ✅ Active |
+| [`ad-audit-toolkit`](https://github.com/n0t-intersys/ad-audit-toolkit) | On-prem Active Directory auditor — Kerberos attack surface, privileged roles, DCSync, password policy | PowerShell | ✅ Active |
+| [`entra-audit-toolkit`](https://github.com/n0t-intersys/entra-audit-toolkit) | Entra ID (Azure AD) audit suite — MFA gaps, CA policies, app permissions, PIM, stale identities | PowerShell, Graph API | ✅ Active |
 
 </div>
 
